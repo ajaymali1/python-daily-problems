@@ -1,7 +1,6 @@
 # Problem 02 - Positive, Negative, or Zero
 
 ## Problem Statement
-
 Write a Python program to check whether a given number is positive, negative, or zero.
 
 ## Example
@@ -21,8 +20,7 @@ Output:
 Zero
 
 ## Logic
-
-* If the number is greater than 0, it is positive.
-* If the number is less than 0, it is negative.
-* Otherwise, it is zero.
-
+Checks whether a number is positive, negative, or zero:
+- Greater than 0 → Positive
+- Less than 0 → Negative
+- Equal to 0 → Zero

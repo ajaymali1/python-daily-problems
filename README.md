@@ -16,4 +16,3 @@ Compare both numbers.
 If the first number is greater than the second, print the first number.
 Otherwise, print the second number.
 
-
